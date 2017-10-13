@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import logo from '../assets/logo.png'
-
+import router from './router.js'
 
 
 export default class ShelfA extends Component {
