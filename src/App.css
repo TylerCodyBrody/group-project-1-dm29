@@ -32,3 +32,32 @@ body {
 .logo-container * {
   display: inline-block;
 }
+
+
+/*-------------ShelfA-------------*/
+
+
+.shelfa_header {
+  background-color: #D1483B;
+  height: 60px;
+  padding: 20px;
+  color: white;
+}
+
+#shelfa_logo {
+  background-color: #A92C20;
+  height: 60px;
+  width: 5vw;
+
+}
+
+
+.shelfa_bins_container {
+
+  margin: auto 0;
+  
+
+}
+
+
+
