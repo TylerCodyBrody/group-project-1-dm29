@@ -13,7 +13,6 @@ class App extends Component {
             <div id="logo-text">SHELFIE</div>
           </div>
         </div>
-        
       </div>
     );
   }
