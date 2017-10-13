@@ -1,3 +1,3 @@
 select *
 from shelfA
-where bin = $1;
+where bins = $1;
